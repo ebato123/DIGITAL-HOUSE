@@ -12,7 +12,7 @@
 17/02/23 + INTRODUCCIÓN A LA INFORMÁTICA - MÓDULO 1 -  - Adelantar PLAYGROUND 17/02
 22/02/23 + FRONT END 1                   - MÓDULO 2 -  - Terminar Actividad HTML PLAYGROUND 22/02
 23/02/23 + FRONT END 1                   - MÓDULO 2 -  - Adelantar Playground 23/02
-24/02/23 - INTRODUCCIÓN A LA INFORMÁTICA - MÓDULO 2 -  - Adelantar Playground 24/02
+24/02/23 + INTRODUCCIÓN A LA INFORMÁTICA - MÓDULO 2 -  - Adelantar Playground 24/02
 27/02/23 + METODOLOGÍAS DE TRABAJO 1     - MÓDULO 1 -  - Adelantar PLAYGROUND 27/02
 27/02/23 + METODOLOGÍAS DE TRABAJO 1     - MÓDULO 1 -  - Terminar la actividad N°1 de MURAL con GRUPO 5
 27/02/23 + METODOLOGÍAS DE TRABAJO 1     - MÓDULO 1 -  - Organizar para hacer TPI con GRUPO 5
@@ -20,6 +20,6 @@
 28/02/23 - FRONT END 1                   - MÓDULO 2 -  - Terminar BATMAN Currículum Clase 7
 28/02/23 + INTRODUCCIÓN A LA INFORMÁTICA - MÓDULO 2 -  - Completar FORMULARIO Clase 4
 28/02/23 - INTRODUCCIÓN A LA INFORMÁTICA - MÓDULO 2 -  - Completar MOCHILA Clase 6
-03/03/23 - INTRODUCCIÓN A LA INFORMÁTICA - MÓDULO 2 -  - Adelantar Playground 03/03 (07/03)
+03/03/23 + INTRODUCCIÓN A LA INFORMÁTICA - MÓDULO 2 -  - Adelantar Playground 03/03 (07/03)
 06/03/23 - METODOLOGÍAS DE TRABAJO 1     - MÓDULO 2 -  - Adelantar Playground 06/03 (13/03)
 07/03/23 - INTRODUCCIÓN A LA INFORMÁTICA - MÓDULO 2 -  - Adelantar Playground 07/03 (10/03)

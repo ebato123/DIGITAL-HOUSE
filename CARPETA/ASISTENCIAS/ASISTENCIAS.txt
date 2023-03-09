@@ -17,3 +17,5 @@ JUEVES    02/03/23 - 19;00 HS - Front End 1 -                                   
 VIERNES   03/03/23 - 19;00 HS - Introducción a la Informática -                                                                   - PRESENTE 
 VIERNES   03/03/23 - 21;00 HS - Introducción a la Informática -                                                                   - PRESENTE 
 LUNES     06/03/23 - 19;00 HS - Metodologías de Trabajo 1                                                                         - PRESENTE
+MARTES    08/03/23 - 19;00 HS - Front End 1 -                                                                                     - PRESENTE
+MARTES    08/03/23 - 21;00 HS - Introducción a la Informática -                                                                   - PRESENTE 
